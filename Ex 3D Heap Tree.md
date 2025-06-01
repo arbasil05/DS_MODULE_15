@@ -15,8 +15,8 @@ To write a C function to delete an element in a Heap Tree.
 ```
 /*
 Program to delete an element in a Heap Tree
-Developed by: Kurapati Vishnu Vardhan Reddy
-RegisterNumber: 212223040103
+Developed by: Abdur Rahman Basil A H
+RegisterNumber: 212223040002
 */
 
 #include<stdio.h>
