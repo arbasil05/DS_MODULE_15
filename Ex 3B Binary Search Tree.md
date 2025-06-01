@@ -15,8 +15,8 @@ To write a C function to insert the elements in the binary search tree
 ```
 /*
 Program to insert the elements in the binary search tree
-Developed by: Kurapati Vishnu Vardhan Reddy
-RegisterNumber: 212223040103
+Developed by: Abdur Rahman Basil A H
+RegisterNumber: 212223040002
 */
 #include<stdio.h>
 #include<stdlib.h>
