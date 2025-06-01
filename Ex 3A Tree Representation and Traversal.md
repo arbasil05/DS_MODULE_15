@@ -12,7 +12,7 @@ To write a C function to perform post order traversal of a binary tree.
 5. End the program.
 
 ## Program:
-```
+```c
 /*
 Program to perform post order traversal of a binary tree.
 Developed by: Abdur Rahman Basil A H
